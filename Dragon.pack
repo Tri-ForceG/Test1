@@ -1,0 +1,40 @@
+
+Dragon.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dragon.5
+  rotate: false
+  xy: 1, 261
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+Dragon.4
+  rotate: false
+  xy: 1, 131
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+Dragon.2
+  rotate: false
+  xy: 114, 261
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+Dragon.1
+  rotate: false
+  xy: 1, 1
+  size: 100, 128
+  orig: 100, 128
+  offset: 0, 0
+  index: -1
+Dragon.3
+  rotate: false
+  xy: 108, 132
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
